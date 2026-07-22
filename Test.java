@@ -4,8 +4,8 @@ public class Test {
 
     int a=578;
     int b=459;
-    int result = a-b;
-    System.out.println("The diff is " +result);
+    int result = a*b;
+    System.out.println("The Product is " +result);
     
   }
   public static void main(String[] args)
